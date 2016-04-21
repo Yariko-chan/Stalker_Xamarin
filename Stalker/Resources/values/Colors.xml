@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <color name="default_cell">#f7f8f7</color>
+    <color name="checked_cell">#e4e8e3</color>
+</resources>
+
